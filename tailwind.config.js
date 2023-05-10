@@ -2,7 +2,12 @@
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        title: ['"Baloo Bhaina 2"'],
+        body: ['"Libre Franklin"'],
+      },
+    },
   },
   plugins: [],
 };
