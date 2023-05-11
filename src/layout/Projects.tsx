@@ -14,5 +14,12 @@ export function Projects() {
       />
     );
   });
-  return <section>{catCards}</section>;
+  return (
+    <section className="p-8 bg-[#272727]">
+      <h2 className="font-title text-2xl text-white">Projects</h2>
+      <div className="grid gap-6 sm:grid-cols-[repeat(auto-fit,_minmax(250px,_1fr))] mt-6">
+        {catCards}
+      </div>
+    </section>
+  );
 }
