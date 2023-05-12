@@ -1,26 +1,26 @@
 [
     {
-        "imageUrl": "https://i.pinimg.com/736x/76/fe/44/76fe44e46c67f089dbf6bdd96b332bba.jpg",
-        "name": "Cat",
-        "description": "This is a cat",
-        "sourceUrl": "This is the source URL",
-        "liveUrl": "This is the live URL",
+        "imageUrl": "https://user-images.githubusercontent.com/103092686/165221419-7fde7b2e-b08f-4bfd-8ab8-8acbf364b23e.png",
+        "name": "Only Do",
+        "description": "A small todo list application, built with HTML, CSS & JavaScript, with a focus on modules and the basics of Object-oriented programming.",
+        "sourceUrl": "https://github.com/kmsedu/todo-list",
+        "liveUrl": "https://kmsedu.github.io/todo-list/",
         "id": "Ll2iABGo_bBwZuGXePgf2"
     },
     {
-        "imageUrl": "https://i.pinimg.com/736x/76/fe/44/76fe44e46c67f089dbf6bdd96b332bba.jpg",
-        "name": "Cat 2",
-        "description": "TThis is the second catThis is the second catThis is the second catThis is the second cathis is the second cat",
-        "sourceUrl": "This is the source URL",
-        "liveUrl": "This is the live URL",
+        "imageUrl": "https://user-images.githubusercontent.com/103092686/163013025-83dbe18f-5d8d-48af-a633-6d6dde832186.png",
+        "name": "Dashboard",
+        "description": "A mock-up of a dashboard for an internet service, built with plain HTML and CSS.",
+        "sourceUrl": "https://github.com/kmsedu/dashboard",
+        "liveUrl": "https://kmsedu.github.io/dashboard/",
         "id": "3V1zTmt3N8J-YXs-iKfz2"
     },
     {
-        "imageUrl": "https://i.pinimg.com/736x/76/fe/44/76fe44e46c67f089dbf6bdd96b332bba.jpg",
-        "name": "Cat 2",
-        "description": "TThis is the second catThis is the second catThis is the second catThis is the second cathis is the second cat",
-        "sourceUrl": "This is the source URL",
-        "liveUrl": "This is the live URL",
-        "id": "3V1zTmt3N8J-YXs-iKfz2"
+        "imageUrl": "https://github-production-user-asset-6210df.s3.amazonaws.com/103092686/237873331-165032f6-8f8a-4d47-a4bc-172f5c2ba8da.png",
+        "name": "Shopping Cart",
+        "description": "Shopping Cart mock-up, written in TypeScript using React as a framework.",
+        "sourceUrl": "https://github.com/kmsedu/shopping-cart",
+        "liveUrl": "https://kmsedu.github.io/shopping-cart/",
+        "id": "KMW0C6ycJwtP2fH7aJObi"
     }
 ]
