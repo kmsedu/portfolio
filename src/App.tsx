@@ -1,6 +1,7 @@
 import { Header } from "./layout/Header";
 import { About } from "./layout/About";
 import { Projects } from "./layout/Projects";
+import { Contact } from "./layout/Contact";
 
 export function App() {
   return (
@@ -8,6 +9,7 @@ export function App() {
       <Header />
       <About />
       <Projects />
+      <Contact />
     </>
   );
 }
